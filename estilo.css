@@ -1,0 +1,43 @@
+body{
+    background: white;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: black;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.301);
+    
+}
+
+input[type=button]{
+    background:#006699;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input[type=text]{
+    width: 25%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
